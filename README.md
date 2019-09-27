@@ -1,32 +1,3 @@
-
-
-<p align="center">
-  <a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit/week"></a>
-  <a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit/month"></a>
-  <a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit"></a></br>
-  <a href="https://github.com/M4cs/BabySploit/network"><img src="https://img.shields.io/github/forks/M4cs/BabySploit.svg" alt="Forks"></a>
-  <a href="https://github.com/M4cs/BabySploit/stargazers"><img src="https://img.shields.io/github/stars/M4cs/BabySploit.svg" atl="Stars"></a>
-  <a href="https://github.com/M4cs/BabySploit/issues"><img src="https://img.shields.io/github/issues/M4cs/BabySploit.svg" alt="Issues"></a>
-  <a href=""><img src="https://img.shields.io/badge/version-1.4.4-green.svg?syle=popout"></a>
-  <a href="https://github.com/M4cs/BabySploit/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/M4cs/BabySploit.svg" alt="License"></a>
-  <a href="http://www.python.org/download/"><img alt="Python 3.6+" src="https://img.shields.io/badge/Python-3.6+-yellow.svg"></a>
-  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FM4cs%2FBabySploit"><img src="https://img.shields.io/twitter/url/https/github.com/M4cs/BabySploit.svg?style=popout" alt="Twitter"></a>
-  <a href="https://discord.gg/7VN9VZe"><img src="https://img.shields.io/badge/discord-join-blue.svg?syle=popout"></a>
-
-<p align="center">
-  <b>Made For Kali Linux. No Support For Other Distros If There Are Problems.</b>
-  </br><a href="https://twitter.com/maxbridgland" alt="Twitter Link"><b>Developed by @maxbridgland</b></a></br>
-  <a href="https://bit.ly/2Ke9uVi">Donate</a>
-</p>
-<p align="center">
-  <a href="https://discord.gg/7VN9VZe"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/27090541/8dd5c907f2a0eecb73dc6a4776fc9a25878ebcdd.png" alt="Forks"></a>
-
-<p align="center">
-  <b>BabySploit is a penetration testing toolkit aimed at making it easy to learn how to use bigger,</br> 
-more complicated frameworks like Metasploit. With a very easy to use UI and toolkit, anybody</br>
-from any experience level will find use out of BabySploit. Below are some screenshots of the framework.</b>
-</p>
-
 # Installation Instructions:
 
 ## Using Pip
@@ -46,7 +17,7 @@ In order to use `search` command you must follow steps [here](https://www.exploi
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install exploitdb netcat nmap perl php7.0
-git clone https://github.com/M4cs/BabySploit.git
+git clone https://github.com/alex14324/BabySploit.git
 cd BabySploit/
 python3 setup.py install
 babysploit
